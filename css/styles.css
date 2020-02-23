@@ -10,3 +10,12 @@
     padding: 10px;
     font-weight: bold;
 }
+.services{
+    background-image: url("../images/backgrounds/s_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding:140px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
