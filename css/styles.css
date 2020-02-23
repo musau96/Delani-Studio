@@ -19,3 +19,17 @@
     color: white;
     font-weight: bold;
 }
+#description{
+    background-color:white;
+    padding-top: 50px;
+    color: black;
+    font-weight: bold;
+
+
+}
+#h1{
+    text-align: center;
+}
+.design-hide {
+    display: none;
+}
