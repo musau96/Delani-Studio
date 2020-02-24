@@ -45,6 +45,24 @@
     display: none;
 }
 
+.click:hover {
+    opacity: 0.6;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.click2:hover {
+    opacity: 0.6;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.click3:hover {
+    opacity: 0.6;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
 .portfolio {
     border-top: 1px solid gray;
     color: black;
@@ -91,26 +109,10 @@ input:hover {
 }
 
 .social-media {
-    height: 24vh;
-    margin-top: -7%;
+    display: inline;
+    
     background-color: white;
     text-align: center;
     font-family: "Inconsolata";
     color: black;
-}
-
-.social-media {
-    padding-top: 2%;
-    justify-content: center;
-    width: 70%;
-    margin-left: 14%;
-}
-
-.social-media img {
-    border-radius: 50%;
-}
-
-.social-media img:hover {
-    box-shadow: 3px 3px 5px grey, -3px 0 5px grey;
-    transition: 0.4s;
 }
