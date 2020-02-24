@@ -20,6 +20,7 @@ This contains our three main activities which are design, development, and produ
 This is just a brief overview of past projects we have done.
 * **Contact us**
 You are free to contact us and we will make sure we get back to you.
+## live linkhttps://musau96.github.io/Delani-Studio/
 
 ## Setup
 This is a website thus is not available for download and can only be accessed online. However, we are working on building a functional app so stay tuned.
