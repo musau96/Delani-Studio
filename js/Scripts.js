@@ -1,6 +1,6 @@
 $(document).ready(function () {
     $("#design").click(function () {
-        $(".design2").toggle(1000);
+        $(".design").toggle(1000);
         $(".img1").toggle(1000);
     });
     $("#development").click(function () {
@@ -23,7 +23,7 @@ $("form#data").submit(function (event) {
         $("input#email").val() &&
         $("input#message").val() != ""
     ) {
-        alert(name + ".We have received your message.Thankyou for reaching us.");
+        alert(name + " .We have received your message.Thankyou for reaching us. ");
     } else {
         alert("Please fill all the required fields ");
     }
